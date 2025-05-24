@@ -1,7 +1,3 @@
-Here’s a professional and well-structured `README.md` for your **Inventory Management System using Python** project:
-
----
-
 # 📦 Advanced Inventory Management System using Python
 
 Managing inventory manually in today’s fast-paced digital environment is outdated and risky. Whether you're running a warehouse, a small business, or an e-commerce store, having an efficient inventory management system is **essential**.
