@@ -141,13 +141,6 @@ pip install pyqt5 matplotlib pandas
    python main.py
    ```
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots of your UI/Dashboard here to enhance visual appeal)*
-
----
 
 ## 🛠️ Customization
 
